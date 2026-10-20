@@ -20,3 +20,5 @@ part 2
 - Order of the routes master a lot
 - Install postman app and make a workspace/ collection > API Call
 - Write logic to handle GET,POST,PATCH,DELETE api calls test them an postman.
+-  Reading the query params in the routes
+- Reading the dynamic routes.
