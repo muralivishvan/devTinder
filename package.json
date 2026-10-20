@@ -1,0 +1,21 @@
+{
+  "name": "devtinder",
+  "version": "1.0.0",
+  "description": "node js app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [
+    "node",
+    "ja",
+    "React",
+    "js"
+  ],
+  "author": "murali",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}

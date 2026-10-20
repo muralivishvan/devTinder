@@ -1,0 +1,10 @@
+- Create a repository
+- Initialized the repository
+- node-modules, package.json, package-lock.json.
+- Install express
+- Create a server
+- Listen to port 7777
+- write request handlers for /test, /home, /hello
+- Install nodemon and update scripts inside pacage.json
+- what is use of ^ and ~
+- what is version of package.
